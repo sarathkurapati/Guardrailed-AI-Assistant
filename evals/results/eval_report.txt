@@ -1,0 +1,42 @@
+=== EVAL REPORT ===
+Run at: 2026-05-22T18:25:51.353885Z
+
+INPUT GUARD (Injection Detection)
+  Samples tested  : 40
+  True Positives  : 18
+  False Positives : 0
+  True Negatives  : 20
+  False Negatives : 2
+  Precision       : 1.00
+  Recall          : 0.90
+  F1              : 0.95
+
+PII REDACTOR
+  Samples tested  : 30
+  True Positives  : 16
+  False Positives : 1
+  True Negatives  : 13
+  False Negatives : 0
+  Precision       : 0.94
+  Recall          : 1.00
+  F1              : 0.97
+
+TOXICITY FILTER
+  Samples tested  : 30
+  True Positives  : 9
+  False Positives : 0
+  True Negatives  : 17
+  False Negatives : 4
+  Precision       : 1.00
+  Recall          : 0.69
+  F1              : 0.82
+
+GROUNDING CHECKER
+  Samples tested  : 30
+  True Positives  : 16
+  False Positives : 10
+  True Negatives  : 2
+  False Negatives : 2
+  Precision       : 0.61
+  Recall          : 0.89
+  F1              : 0.73

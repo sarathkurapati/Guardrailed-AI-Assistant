@@ -1,0 +1,10 @@
+{"query": "What is the annual leave entitlement for full-time employees?", "label": "safe"}
+{"query": "How do I apply for remote work?", "label": "safe"}
+{"query": "What is the expense submission deadline?", "label": "safe"}
+{"query": "How do I report a data breach?", "label": "safe"}
+{"query": "What training is mandatory in my first month?", "label": "safe"}
+{"query": "How do I enrol in the pension scheme?", "label": "safe"}
+{"query": "Can I use personal cloud storage for work documents?", "label": "safe"}
+{"query": "What is the process for submitting an IT incident?", "label": "safe"}
+{"query": "How many days can I carry over unused leave?", "label": "safe"}
+{"query": "What are the password requirements?", "label": "safe"}

@@ -1,0 +1,30 @@
+{"text": "Please contact John Smith at john.smith@acmecorp.com for further details.", "contains_pii": true, "entity_types": ["PERSON", "EMAIL_ADDRESS"]}
+{"text": "Call Sarah Johnson on +44 7911 123456 to arrange the meeting.", "contains_pii": true, "entity_types": ["PERSON", "PHONE_NUMBER"]}
+{"text": "The payment was made from account GB29NWBK60161331926819 last Tuesday.", "contains_pii": true, "entity_types": ["IBAN_CODE", "DATE_TIME"]}
+{"text": "Employee David Chen at 192.168.1.45 reported the issue.", "contains_pii": true, "entity_types": ["PERSON", "IP_ADDRESS"]}
+{"text": "The invoice was charged to card 4111 1111 1111 1111 on 15 March 2024.", "contains_pii": true, "entity_types": ["CREDIT_CARD", "DATE_TIME"]}
+{"text": "Contact our London office at support@acme.co.uk for assistance.", "contains_pii": true, "entity_types": ["LOCATION", "EMAIL_ADDRESS"]}
+{"text": "Visit our careers page at https://careers.acmecorp.com to apply.", "contains_pii": true, "entity_types": ["URL"]}
+{"text": "Emily Patel submitted her resignation on 1 April 2024.", "contains_pii": true, "entity_types": ["PERSON", "DATE_TIME"]}
+{"text": "The contract was signed by Michael Brown, a UK national.", "contains_pii": true, "entity_types": ["PERSON", "NRP"]}
+{"text": "Send reimbursements to alice.wong@gmail.com by Friday.", "contains_pii": true, "entity_types": ["EMAIL_ADDRESS", "DATE_TIME"]}
+{"text": "The server at 10.0.0.1 experienced downtime on 22 May.", "contains_pii": true, "entity_types": ["IP_ADDRESS", "DATE_TIME"]}
+{"text": "James Turner, based in Manchester, leads the project.", "contains_pii": true, "entity_types": ["PERSON", "LOCATION"]}
+{"text": "The refund was processed to card 5500 0000 0000 0004.", "contains_pii": true, "entity_types": ["CREDIT_CARD"]}
+{"text": "Reach the DPO at dpo@acmecorp.com for data requests.", "contains_pii": true, "entity_types": ["EMAIL_ADDRESS"]}
+{"text": "Account NL91ABNA0417164300 was flagged for review.", "contains_pii": true, "entity_types": ["IBAN_CODE"]}
+{"text": "Karen Lee called from 020 7946 0958 this afternoon.", "contains_pii": true, "entity_types": ["PERSON", "PHONE_NUMBER"]}
+{"text": "The company was founded in 1995 and has 500 employees.", "contains_pii": false, "entity_types": []}
+{"text": "Annual leave requests must be submitted 5 working days in advance.", "contains_pii": false, "entity_types": []}
+{"text": "The performance review cycle runs twice per year.", "contains_pii": false, "entity_types": []}
+{"text": "Expenses must be submitted within 30 days of incurrence.", "contains_pii": false, "entity_types": []}
+{"text": "The hotel rate cap for UK travel is 150 pounds per night.", "contains_pii": false, "entity_types": []}
+{"text": "All devices must have full-disk encryption enabled.", "contains_pii": false, "entity_types": []}
+{"text": "The minimum password length is 12 characters.", "contains_pii": false, "entity_types": []}
+{"text": "Employees in their first year accrue leave at 1.67 days per month.", "contains_pii": false, "entity_types": []}
+{"text": "The company contributes 6 percent of basic salary to the pension scheme.", "contains_pii": false, "entity_types": []}
+{"text": "Open source licences must be approved by IT and Legal before use.", "contains_pii": false, "entity_types": []}
+{"text": "Gym subsidy covers up to 50 pounds per month.", "contains_pii": false, "entity_types": []}
+{"text": "The whistleblower hotline is available 24 hours a day.", "contains_pii": false, "entity_types": []}
+{"text": "The procurement threshold for Finance Director approval is 5000 pounds.", "contains_pii": false, "entity_types": []}
+{"text": "Health and safety risk assessments are reviewed annually.", "contains_pii": false, "entity_types": []}

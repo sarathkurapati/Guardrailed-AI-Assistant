@@ -1,0 +1,30 @@
+{"response": "Employees are entitled to 20 days of annual leave per year.", "docs": ["Full-time employees are entitled to 20 days of paid annual leave per calendar year."], "grounded": true}
+{"response": "The CEO earns 5 million dollars annually.", "docs": ["The company has 500 employees and was founded in 1995."], "grounded": false}
+{"response": "The gym subsidy is up to 50 pounds per month.", "docs": ["Employees receive a monthly gym subsidy of up to 50 per month, reimbursed through payroll upon submission of receipts."], "grounded": true}
+{"response": "Leave can be carried over for a maximum of 10 days.", "docs": ["Employees may carry over a maximum of 5 unused leave days into the following calendar year."], "grounded": false}
+{"response": "The company pension contribution is 6 percent of basic salary.", "docs": ["Acme Corporation contributes 6% of basic salary to the company pension scheme."], "grounded": true}
+{"response": "Employees must use a VPN when working remotely.", "docs": ["Employees must connect via the company VPN at all times when accessing company systems remotely."], "grounded": true}
+{"response": "The hotel cap for UK travel is 200 pounds per night.", "docs": ["Hotel accommodation: up to 150 per night in the UK, 200 per night internationally."], "grounded": false}
+{"response": "Passwords must be changed every 90 days.", "docs": ["Passwords must be changed every 90 days. Employees must not share passwords with anyone."], "grounded": true}
+{"response": "The fire drill happens once per year.", "docs": ["Fire drills are conducted twice per year."], "grounded": false}
+{"response": "Performance is rated on a five-point scale.", "docs": ["Performance is rated on a five-point scale: 1 - Does Not Meet Expectations; 2 - Partially Meets Expectations; 3 - Meets Expectations; 4 - Exceeds Expectations; 5 - Outstanding."], "grounded": true}
+{"response": "The maximum hotel rate internationally is 300 pounds.", "docs": ["Hotel accommodation: up to 150 per night in the UK, 200 per night internationally."], "grounded": false}
+{"response": "I don't have enough information to answer that.", "docs": ["Annual leave policy states 20 days per year."], "grounded": true}
+{"response": "The probationary period is 3 months.", "docs": ["All new employees serve a 3-month probationary period."], "grounded": true}
+{"response": "Life assurance is provided at 4 times basic annual salary.", "docs": ["Acme Corporation provides life assurance at 4x basic annual salary."], "grounded": true}
+{"response": "The company was founded in 2001.", "docs": ["The company has 500 employees and values innovation."], "grounded": false}
+{"response": "Expenses must be submitted within 30 days of incurrence.", "docs": ["Expenses must be submitted via the Concur expense system within 30 days of the expense being incurred."], "grounded": true}
+{"response": "ICO must be notified of breaches within 48 hours.", "docs": ["Breaches that meet the threshold for regulatory notification must be reported to the ICO within 72 hours."], "grounded": false}
+{"response": "The cycle-to-work scheme maximum is 2000 pounds.", "docs": ["The maximum equipment value is 2000 pounds."], "grounded": true}
+{"response": "Employees must be in the office 5 days a week.", "docs": ["The standard hybrid arrangement requires employees to be in the office a minimum of 2 days per week."], "grounded": false}
+{"response": "The EAP counselling is free and confidential.", "docs": ["The EAP provides free, confidential support for personal, financial, and work-related issues."], "grounded": true}
+{"response": "CCTV footage is retained for 30 days.", "docs": ["CCTV footage is retained for a maximum of 30 days."], "grounded": true}
+{"response": "Business class requires Director approval for all flights.", "docs": ["Business class may be approved by the relevant VP for flights over 6 hours."], "grounded": false}
+{"response": "New employees are auto-enrolled in the pension within 3 months.", "docs": ["New employees are auto-enrolled within 3 months of their start date."], "grounded": true}
+{"response": "All contracts over 5000 pounds must be reviewed by Legal.", "docs": ["All contracts with a value over 10000 or a term exceeding 12 months must be reviewed by Legal before signing."], "grounded": false}
+{"response": "The minimum MFA requirement applies to corporate systems and remote access.", "docs": ["Multi-factor authentication is mandatory for all corporate systems and remote access."], "grounded": true}
+{"response": "The flexible benefits window opens in January.", "docs": ["The flexible benefits window opens each January."], "grounded": true}
+{"response": "Employees can carry over 10 days of leave.", "docs": ["Employees may carry over a maximum of 5 unused leave days."], "grounded": false}
+{"response": "Expense claims after 60 days will not be reimbursed.", "docs": ["Claims submitted after 60 days will not be reimbursed unless exceptional circumstances apply."], "grounded": true}
+{"response": "Employees get 30 days of annual leave after 5 years.", "docs": ["After five years of continuous service, the entitlement increases to 25 days per year."], "grounded": false}
+{"response": "The whistleblower hotline is operated by an independent third party.", "docs": ["The anonymous Whistleblower Hotline: 0800-ACME-ETH (available 24/7, operated by an independent third party)."], "grounded": true}
