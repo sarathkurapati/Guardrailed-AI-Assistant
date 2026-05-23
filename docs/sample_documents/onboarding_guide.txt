@@ -1,0 +1,27 @@
+NEW EMPLOYEE ONBOARDING GUIDE
+Effective Date: January 2024
+Policy Owner: Human Resources
+
+1. WELCOME
+Welcome to Acme Corporation. This guide outlines the key steps in your first 30 days and the resources available to help you settle in successfully.
+
+2. DAY ONE CHECKLIST
+On your first day you will: receive your company laptop and access credentials; complete IT security induction and MFA setup; meet your line manager and team; receive your employee ID badge; complete mandatory e-learning modules (Data Protection, Health & Safety, Code of Conduct). All day-one activities are coordinated by your HR Business Partner.
+
+3. SYSTEMS ACCESS
+Access to core systems (email, HR self-service, Jira, Confluence) is provisioned by IT before your start date. You will receive a welcome email with login instructions. Additional system access must be requested via the IT service desk ticket system.
+
+4. PROBATION PERIOD
+All new employees serve a 3-month probationary period. During this time, your line manager will conduct monthly check-ins to discuss progress and any concerns. Successful completion of probation is confirmed in writing by HR.
+
+5. TRAINING AND INDUCTION
+Mandatory training in the first month includes: Company Induction (half-day, delivered by HR); Data Protection & GDPR; Health & Safety at Work; IT Security Awareness. Role-specific training is arranged by your line manager within the first two weeks.
+
+6. BUDDY PROGRAMME
+Each new employee is assigned a buddy from their team to help with day-to-day questions and cultural integration. Buddies are not line managers and provide informal support only.
+
+7. PAY AND BENEFITS
+Payroll runs on the last working day of each month. Your payslip is accessible via the HR self-service portal. To enrol in the company pension scheme, complete the pension enrolment form in the HR portal within your first week. Details of all benefits including private health insurance, gym subsidy, and the cycle-to-work scheme are available in the Benefits Handbook on the intranet.
+
+8. KEY CONTACTS
+HR helpdesk: hr@acmecorp.com | ext 4400. IT service desk: it@acmecorp.com | ext 4500. Facilities: facilities@acmecorp.com | ext 4600.

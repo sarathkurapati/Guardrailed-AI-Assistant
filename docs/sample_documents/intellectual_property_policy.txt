@@ -1,0 +1,27 @@
+INTELLECTUAL PROPERTY POLICY
+Effective Date: January 2024
+Policy Owner: Legal Department
+
+1. PURPOSE
+This policy defines ownership of intellectual property (IP) created during employment and sets out employees' obligations with respect to third-party IP.
+
+2. COMPANY OWNERSHIP OF IP
+All intellectual property created by an employee in the course of their employment — including inventions, software, designs, written content, algorithms, and trade secrets — belongs to Acme Corporation. This applies regardless of whether the work was created during or outside working hours, provided it relates to the company's business or uses company resources.
+
+3. DISCLOSURE OBLIGATION
+Employees must promptly disclose to their line manager and the Legal department any invention, process, or improvement they develop that may constitute company IP. Disclosure must be made in writing using the IP Disclosure Form available on the intranet.
+
+4. EMPLOYEE INVENTIONS PRIOR TO EMPLOYMENT
+Employees who have pre-existing IP that is relevant to their role at Acme Corporation must disclose it before commencing employment. Pre-existing IP that is not disclosed cannot be retained by the employee if it overlaps with company activities.
+
+5. OPEN SOURCE SOFTWARE
+Employees must not incorporate open source software into company products or tools without prior approval from IT and Legal. The use of copyleft-licensed software (e.g. GPL) requires special scrutiny, as it may impose obligations on company code. Approved open source licences are listed on the IT intranet page.
+
+6. USE OF THIRD-PARTY IP
+Employees must not use, copy, or distribute third-party copyrighted material, patented technology, or trade secrets without appropriate licences. This includes images, fonts, code libraries, and datasets.
+
+7. CONFIDENTIALITY
+All company IP, trade secrets, and proprietary information are confidential and must not be disclosed to third parties without authorisation. This obligation continues after employment ends.
+
+8. ENFORCEMENT
+Employees who breach this policy may face disciplinary action. Acme Corporation reserves the right to seek legal remedies for misappropriation of company IP.

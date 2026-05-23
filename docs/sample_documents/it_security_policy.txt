@@ -1,0 +1,27 @@
+IT SECURITY POLICY
+Effective Date: February 1, 2024
+Policy Owner: IT Department
+
+1. PURPOSE
+This policy defines the security standards all employees must follow to protect Acme Corporation's systems, data, and networks from unauthorised access, loss, or misuse.
+
+2. PASSWORD STANDARDS
+All passwords must be a minimum of 12 characters and include uppercase letters, lowercase letters, numbers, and special characters. Passwords must be changed every 90 days. Employees must not share passwords with anyone, including IT staff. Multi-factor authentication (MFA) is mandatory for all corporate systems and remote access.
+
+3. DEVICE USAGE
+Only company-issued or formally approved devices may be used to access corporate systems. Personal devices may only access company systems via the approved MDM (Mobile Device Management) solution. Employees must enable full-disk encryption on all devices used for work. Devices must be locked when unattended.
+
+4. DATA HANDLING
+Confidential data must not be stored on personal cloud storage (e.g. personal Dropbox, Google Drive). Confidential documents sent externally must be encrypted. Data classified as Restricted (including employee personal data and financial records) must only be shared on a need-to-know basis and via secure channels.
+
+5. EMAIL AND PHISHING
+Employees must not click links or open attachments in unsolicited or suspicious emails. Suspected phishing emails should be reported immediately to security@acmecorp.com. Employees should never provide login credentials in response to an email request.
+
+6. SOFTWARE AND UPDATES
+Only IT-approved software may be installed on company devices. Operating system and software updates must be applied within 48 hours of availability. Unlicensed or pirated software is prohibited.
+
+7. INCIDENT REPORTING
+Any suspected security breach, data loss, or device theft must be reported to the IT Security team immediately at security@acmecorp.com or extension 4500. Do not attempt to investigate or remediate a breach independently.
+
+8. VIOLATIONS
+Breaches of this policy may result in disciplinary action, up to and including termination, and may be referred to law enforcement where applicable.

@@ -1,0 +1,27 @@
+DATA PRIVACY POLICY
+Effective Date: January 1, 2024
+Policy Owner: Legal & Compliance / Data Protection Officer
+
+1. PURPOSE
+Acme Corporation is committed to protecting the personal data of employees, customers, and partners in compliance with applicable data protection laws including the UK GDPR and the Data Protection Act 2018.
+
+2. DATA WE COLLECT
+Employee data collected includes: name, address, national insurance number, bank details, employment history, performance records, and health information where relevant (e.g. sick leave). Customer data is limited to what is necessary for the provision of services.
+
+3. LAWFUL BASIS FOR PROCESSING
+Personal data is processed on the following lawful bases: contract fulfilment (payroll, HR administration); legal obligation (tax reporting, regulatory compliance); legitimate interests (security monitoring, fraud prevention); consent (optional benefits programmes, marketing communications).
+
+4. DATA MINIMISATION
+Acme Corporation collects only the minimum personal data necessary for the stated purpose. Employees must not collect personal data beyond what is required for their role.
+
+5. DATA RETENTION
+Employee records are retained for the duration of employment plus 6 years in line with legal obligations. CCTV footage is retained for a maximum of 30 days. Customer data is retained according to the contract and applicable regulatory requirements.
+
+6. DATA SUBJECT RIGHTS
+Individuals have the right to: access their personal data (Subject Access Request); rectify inaccurate data; request erasure where no legal basis exists; object to processing; data portability. Requests should be directed to dpo@acmecorp.com and will be responded to within 30 days.
+
+7. DATA BREACHES
+Any suspected personal data breach must be reported to the Data Protection Officer immediately at dpo@acmecorp.com. Breaches that meet the threshold for regulatory notification must be reported to the ICO within 72 hours.
+
+8. INTERNATIONAL TRANSFERS
+Personal data will not be transferred outside the UK or EEA without adequate safeguards (Standard Contractual Clauses or adequacy decision) in place.

@@ -1,0 +1,27 @@
+IT INCIDENT RESPONSE PROCEDURE
+Effective Date: February 2024
+Policy Owner: IT Security
+
+1. PURPOSE
+This procedure defines how Acme Corporation identifies, reports, contains, and recovers from IT security incidents and service outages.
+
+2. INCIDENT CATEGORIES
+Incidents are classified by severity: P1 (Critical) — complete system outage or confirmed data breach; P2 (High) — significant system degradation or suspected breach; P3 (Medium) — limited service impact, no data loss; P4 (Low) — minor issue with workaround available.
+
+3. REPORTING
+All employees must report suspected IT incidents immediately to the IT Security team: email security@acmecorp.com or call the 24/7 hotline on +44 20 1234 5678. Do not attempt to investigate or remediate an incident independently. Do not discuss the incident on unsecured channels.
+
+4. INCIDENT RESPONSE TEAM
+The Incident Response Team (IRT) is activated for P1 and P2 incidents. The IRT includes the IT Security Lead, Head of IT Operations, Data Protection Officer (for data breaches), and a Communications lead. The CISO is notified for all P1 incidents within 15 minutes.
+
+5. CONTAINMENT
+Upon confirmation of an incident, the IRT will: isolate affected systems from the network; preserve evidence (logs, disk images); notify affected system owners; revoke compromised credentials. For data breaches, the DPO assesses whether ICO notification is required within 72 hours.
+
+6. ERADICATION AND RECOVERY
+After containment, the IRT will identify the root cause, remove malicious artefacts, patch vulnerabilities, and restore systems from verified backups. Recovery timelines for P1 incidents target a maximum of 4 hours to restore critical services.
+
+7. POST-INCIDENT REVIEW
+A post-incident review is conducted within 5 business days of resolution for P1 and P2 incidents. The review produces a root cause analysis and improvement actions. Findings are shared with senior leadership.
+
+8. DOCUMENTATION
+All incidents must be logged in the IT Service Management system with full timeline, actions taken, and resolution details. Records are retained for 5 years.

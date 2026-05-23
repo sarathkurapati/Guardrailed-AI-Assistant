@@ -1,0 +1,27 @@
+REMOTE WORK POLICY
+Effective Date: March 1, 2024
+Policy Owner: Human Resources & IT Department
+
+1. PURPOSE
+This policy establishes guidelines for employees working remotely to ensure productivity, security, and collaboration are maintained.
+
+2. ELIGIBILITY
+Remote work is available to employees whose roles can be performed effectively outside the office. Eligibility is determined by the employee's line manager in consultation with HR. Employees must have completed their probationary period (typically 3 months) before applying for a remote work arrangement.
+
+3. HYBRID WORK SCHEDULE
+The standard hybrid arrangement requires employees to be in the office a minimum of 2 days per week. Team leads and managers must be present on designated team anchor days (Tuesday and Thursday). Remote days should be agreed with the line manager at least one week in advance.
+
+4. EQUIPMENT AND WORKSPACE
+The company will provide a laptop, VPN access, and necessary software. Employees are responsible for maintaining a safe and ergonomic home workspace. Internet connectivity costs are the employee's responsibility. Employees may request a one-time home office allowance of up to £250, subject to manager approval and HR verification.
+
+5. SECURITY REQUIREMENTS
+Employees must connect via the company VPN at all times when accessing company systems remotely. Work must only be conducted on company-issued devices. Confidential documents must not be printed at home. Screen locks must be enabled with a maximum idle time of 5 minutes.
+
+6. PERFORMANCE AND AVAILABILITY
+Remote employees are expected to maintain normal working hours and be reachable via Teams and email during core hours (10:00–16:00). Attendance at scheduled meetings via video is mandatory. Performance is assessed on outputs and outcomes, not hours logged.
+
+7. HEALTH AND SAFETY
+Employees are responsible for ensuring their remote workspace meets basic health and safety standards. The company's DSE (Display Screen Equipment) self-assessment form must be completed before commencing remote work. Any work-related injuries at home must be reported to HR immediately.
+
+8. REVOCATION
+Remote work privileges may be revoked if performance, security compliance, or collaboration standards are not maintained.
